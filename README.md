@@ -1,1 +1,1 @@
-# pre-kdu-training
+## This is readme file from PRE-KDU-TRAINING branch
