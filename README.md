@@ -1,3 +1,3 @@
 # pre-kdu-training
 
-## Exercise 2: Java Collections
+## Exercise 3: File Operations
