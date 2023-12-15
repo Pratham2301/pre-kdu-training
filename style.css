@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: rgb(29, 17, 49);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+}
+
+input{
+    margin: 2rem 0;
+    height: 5vh;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    font-size: x-large;
+    text-align: center;
+}
+
+input{
+    outline: none;
+}
+
+.operations{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.btn{
+    font-size: x-large;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 2vh;
+    width: 5vw;
+    border-radius: 2rem;
+    padding: 1rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 2rem;
+}
+
+.btn:hover{
+    background-color: rgb(193, 192, 227);
+}
+
+.card{
+    font-size: 5rem;
+}
