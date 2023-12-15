@@ -1,1 +1,1 @@
-# pre-kdu-training
+# PRE-KDU-JS-1
